@@ -5,5 +5,4 @@ phases:
          java: corretto8
   build:
     commands:
-      - mvn clean release:prepare
-      - mvn clean release:perform
+      - mvn clean deploy
