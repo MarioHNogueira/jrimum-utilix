@@ -48,13 +48,6 @@
 					<name>AWS S3 Releases Repository</name>
 					<url>s3://br.com.clueit.mvn.repo/snapshot</url>
 				</repository>
-				<repository>
-					<id>jrimum.org</id>
-					<url>http://jrimum.org/maven/content/groups/public/</url>
-					<snapshots>
-						<enabled>true</enabled>
-					</snapshots>
-				</repository>
 			</repositories>
 		</profile>
 	</profiles>
