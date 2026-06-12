@@ -24,13 +24,12 @@
         <system>GitHub</system>
         <url>https://github.com/jrimum/utilix/issues</url>
     </issueManagement>
-
     <scm>
-        <url>https://github.com/MarioHNogueira/jrimum-utilix.git</url>
-        <connection>scm:git:https://github.com/MarioHNogueira/jrimum-utilix</connection>
+        <url>https://github.com/MarioHNogueira/jrimum-utilix</url>
+        <connection>scm:git:https://github.com/MarioHNogueira/jrimum-utilix.git</connection>
         <developerConnection>scm:git:https://github.com/MarioHNogueira/jrimum-utilix.git</developerConnection>
-      <tag>HEAD</tag>
-  </scm>
+        <tag>HEAD</tag>
+    </scm>
 
     <developers>
         <developer>
