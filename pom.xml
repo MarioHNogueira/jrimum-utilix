@@ -23,6 +23,16 @@
         <system>GitHub</system>
         <url>https://github.com/jrimum/utilix/issues</url>
     </issueManagement>
+    <distributionManagement>
+        <repository>
+            <id>s3.releases</id>
+            <url>s3://br.com.clueit.mvn.repo/release</url>
+        </repository>
+        <snapshotRepository>
+            <id>s3.snapshots</id>
+            <url>s3://br.com.clueit.mvn.repo/snapshot</url>
+        </snapshotRepository>
+    </distributionManagement>
     <scm>
         <url>https://github.com/MarioHNogueira/jrimum-utilix</url>
         <connection>scm:git:https://github.com/MarioHNogueira/jrimum-utilix.git</connection>
