@@ -4,7 +4,7 @@
     <artifactId>jrimum-utilix</artifactId>
     <packaging>jar</packaging>
     <name>Projeto Utilix</name>
-    <version>0.2.9-SNAPSHOT</version>
+    <version>0.2.9</version>
     <description>Projeto open source de componentes de software para o domínio de negócios do Brasil.</description>
     <url>http://www.jrimum.org/utilix</url>
 
@@ -37,7 +37,7 @@
         <url>https://github.com/MarioHNogueira/jrimum-utilix</url>
         <connection>scm:git:https://github.com/MarioHNogueira/jrimum-utilix.git</connection>
         <developerConnection>scm:git:https://github.com/MarioHNogueira/jrimum-utilix.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>v0.2.9</tag>
     </scm>
 
     <developers>
